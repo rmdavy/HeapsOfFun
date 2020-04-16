@@ -1,2 +1,4 @@
 # HeapsOfFun
-AMSI Bypass Via the Heap
+AMSI VBA Bypass Via the Heap
+
+![HeapsOfFun](https://github.com/rmdavy/HeapsOfFun/blob/master/HeapsOfFun.jpg)
